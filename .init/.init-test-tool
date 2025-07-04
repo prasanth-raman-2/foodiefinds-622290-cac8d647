@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/tmp/kavia/workspace/code-generation/foodiefinds-622290-cac8d647/zomato_backend"
+}
